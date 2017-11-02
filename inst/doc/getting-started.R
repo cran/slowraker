@@ -3,7 +3,8 @@ knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>",
   progress = FALSE,
-  error = FALSE, message = FALSE
+  error = FALSE, 
+  message = FALSE
 )
 
 options(digits = 2)
